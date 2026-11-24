@@ -1,0 +1,6 @@
+{
+  "name": "عيادة د. فاكر — تشخيص الذاكرة",
+  "description": "تطبيق تفاعلي باللهجة المصرية لأخذ التاريخ المرضي لضعف الذاكرة مع اختبارات ذكية وتشخيص وروشتة طبية مرحة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
